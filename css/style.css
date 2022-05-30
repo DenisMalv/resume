@@ -84,7 +84,7 @@ img {
 
 ol,
 ul {
-  padding-left: 10px;
+  padding-left: 0px;
 }
 
 .link {
@@ -142,7 +142,7 @@ ul {
   color: #585858;
 }
 .company-wrapper{
-  margin-left: 10px;
+  margin-left: 0px;
 }
 .company-wrapper ul {
   padding: 0;
@@ -236,5 +236,5 @@ text-shadow: 2px 7px 6px rgba(143, 143, 143, 0.93);
 }
 
 .education-wraper{
-  margin-left: 10px;
+  margin-bottom: 10px;
 }
